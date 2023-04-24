@@ -3,4 +3,3 @@ def open_file_A():
     HQ_A = OP_A.read()
     return HQ_A.split()
 
-
